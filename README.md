@@ -1,4 +1,4 @@
-## 👋 Olá eu sou o Necx7023
+## 👋 Olá eu sou o Natan!
 
 📚 Estudo Front-End mas o foco é ser fullstack, um passo de cada vez!
 
